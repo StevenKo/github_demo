@@ -1,2 +1,6 @@
-class A
+public class A {
+  
+}
+
+
 

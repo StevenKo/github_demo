@@ -1,1 +1,3 @@
-class B
+public class B {
+  
+}
